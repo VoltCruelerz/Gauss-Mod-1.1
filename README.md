@@ -1,8 +1,8 @@
-# Planet Loyalty
+# Greedy Gauss Mod
 
 ## Changes
 
-- Forked out the string change from Visual39's [Specialized Capital Ships](https://forums.sinsofasolarempire2.com/521655/page/1/#3898126) that replaces planet health with loyalty.
+- Forked out the string change from MadPhoenix's [Gauss Mod 1.1](https://mega.nz/file/JrdzwLZK#VyPyZRc-B1PzJDrQlUgykSi-KDevjaw33yCOCbVRq44).
 
 ## Installation
 

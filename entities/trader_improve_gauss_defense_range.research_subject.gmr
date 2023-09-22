@@ -1,0 +1,12 @@
+{
+    "weapon_modifiers": [
+        {
+            "value_behavior": "scalar",
+            "modifier_type": "range",
+            "value": 0.12,
+            "tags": [
+                "gauss"
+            ]
+        }
+    ]
+}

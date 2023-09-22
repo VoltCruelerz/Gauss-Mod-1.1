@@ -1,0 +1,12 @@
+{
+    "weapon_modifiers": [
+        {
+            "value_behavior": "scalar",
+            "modifier_type": "cooldown_duration",
+            "value": -0.15,
+            "tags": [
+                "gauss"
+            ]
+        }
+    ]
+}
